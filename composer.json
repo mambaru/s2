@@ -1,0 +1,21 @@
+{
+  "name": "mamba/s2",
+  "type": "library",
+  "description": "s2 geo library port (google s2 java lib)",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Vladimir Demyanenko",
+      "email": "deadok.rus@gmail.com"
+    },
+    {
+      "name": "Michail Buylov",
+      "email": "mipxtx@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "S2\\": "lib/S2/"
+    }
+  }
+}
