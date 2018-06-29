@@ -1,5 +1,5 @@
 {
-  "name": "mamba/s2",
+  "name": "wambacom/s2",
   "type": "library",
   "description": "s2 geo library port (google s2 java lib)",
   "license": "MIT",
